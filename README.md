@@ -10,7 +10,7 @@ By executing the command `git submodule init && git submodule update --remote`, 
   - code to ease generation of the table with our results,
   - code to generate the rounding error plots in the appendices,
   - code to to generate the cruel bits plots in the appendices.
-1. Code related to the "guess & verify" attack:
+2. Code related to the "guess & verify" attack:
   - code to run "Guess+Verify" experiments and resulting data.
 
 **Note:** the first submodule, to which the link is not displayed correctly by GitHub, can be found on [GitLab](https://gitlab.com/fvirdia/cool-plus-cruel-equals-dual) commit [4535e1](https://gitlab.com/fvirdia/cool-plus-cruel-equals-dual/-/commit/4535e14201cb024dadb11d347e8611f073a32d56).
